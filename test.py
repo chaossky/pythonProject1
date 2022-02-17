@@ -4,8 +4,10 @@ import pyperclip
 
 # data = open('test_sample.txt', 'r', encoding='utf8')
 # data = open('intro.txt', 'r', encoding='utf8')
-data = open('contents001.txt', 'r', encoding='utf8')
+data = open('habit사실은 있어서 .txt', 'r', encoding='utf8')
 # data = open('article001.txt', 'r', encoding='utf8')
+# data= open('카테고리.txt', 'r', encoding='utf8')
+# data = open('전기기사.txt', 'r', encoding='utf8')
 count = 0
 lines = data.read()
 data.close()
@@ -16,7 +18,7 @@ str_list = (list(str001))
 
 #print(str_list)
 
-time.sleep(3)
+time.sleep(4)
 
 for i in range(len(str_list)):
     time.sleep(0.1)
