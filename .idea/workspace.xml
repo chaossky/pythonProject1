@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69edda79-1b87-4b2d-b20d-32805a3dc165" name="변경" comment="자동글쓰기">
+    <list default="true" id="69edda79-1b87-4b2d-b20d-32805a3dc165" name="변경" comment="자동글쓰기 새파일 추가">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.web_cr">
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -194,7 +193,21 @@
       <option name="project" value="LOCAL" />
       <updated>1645085601067</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="자동글쓰기 새파일 추가">
+      <created>1645162963705</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1645162963706</updated>
+    </task>
+    <task id="LOCAL-00005" summary="자동글쓰기 새파일 추가">
+      <created>1645162973552</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1645162973552</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,6 +227,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="자동글쓰기" />
-    <option name="LAST_COMMIT_MESSAGE" value="자동글쓰기" />
+    <MESSAGE value="자동글쓰기 새파일 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="자동글쓰기 새파일 추가" />
   </component>
 </project>
