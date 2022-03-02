@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69edda79-1b87-4b2d-b20d-32805a3dc165" name="변경" comment="새로운 텍스트 파일 더더 추가">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="69edda79-1b87-4b2d-b20d-32805a3dc165" name="변경" comment="집중력 관련 텍스트 파일 추가" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -287,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646033641565</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="집중력 관련 텍스트 파일 추가">
+      <created>1646201971953</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1646201971953</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,6 +315,7 @@
     <MESSAGE value="자동글쓰기 새파일 추가" />
     <MESSAGE value="새로운텍스트파일더 추가" />
     <MESSAGE value="새로운 텍스트파일 더더 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="새로운 텍스트파일 더더 추가" />
+    <MESSAGE value="집중력 관련 텍스트 파일 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="집중력 관련 텍스트 파일 추가" />
   </component>
 </project>
