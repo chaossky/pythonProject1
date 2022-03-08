@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69edda79-1b87-4b2d-b20d-32805a3dc165" name="변경" comment="집중력 관련 텍스트 파일 추가2">
-      <change afterPath="$PROJECT_DIR$/habit.txt.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/motivate002.txt.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/review.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/review.txt.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/synapse.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/synapse.txt.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/synapse2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tste.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/habit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/habit.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helpless.txt" beforeDir="false" afterPath="$PROJECT_DIR$/helpless.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helpless.txt.bak" beforeDir="false" afterPath="$PROJECT_DIR$/helpless.txt.bak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/motivate002.txt" beforeDir="false" afterPath="$PROJECT_DIR$/motivate002.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test_sample.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_sample.txt.bak" beforeDir="false" afterPath="$PROJECT_DIR$/test_sample.txt.bak" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -316,7 +302,28 @@
       <option name="project" value="LOCAL" />
       <updated>1646208491803</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="집중력 관련 텍스트 파일 추가2">
+      <created>1646707375601</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1646707375602</updated>
+    </task>
+    <task id="LOCAL-00014" summary="집중력 관련 텍스트 파일 추가2">
+      <created>1646707394250</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1646707394250</updated>
+    </task>
+    <task id="LOCAL-00015" summary="집중력 관련 텍스트 파일 추가2">
+      <created>1646727531365</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1646727531366</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
