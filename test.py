@@ -4,7 +4,7 @@ import pyperclip
 
 # data = open('test_sample.txt', 'r', encoding='utf8')
 # data = open('intro.txt', 'r', encoding='utf8')
-data = open('study_method.txt', 'r', encoding='utf8')
+data = open('selfm', 'r', encoding='utf8')
 # data = open('article001.txt', 'r', encoding='utf8')
 # data= open('카테고리.txt', 'r', encoding='utf8')
 # data = open('전기기사.txt', 'r', encoding='utf8')
@@ -13,7 +13,6 @@ lines = data.read()
 data.close()
 
 str001 = lines.split(" ")
-
 str_list = (list(str001))
 
 #print(str_list)

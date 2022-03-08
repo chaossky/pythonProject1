@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69edda79-1b87-4b2d-b20d-32805a3dc165" name="변경" comment="집중력 관련 텍스트 파일 추가" />
+    <list default="true" id="69edda79-1b87-4b2d-b20d-32805a3dc165" name="변경" comment="집중력 관련 텍스트 파일 추가2">
+      <change afterPath="$PROJECT_DIR$/habit.txt.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/motivate002.txt.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/review.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/review.txt.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/synapse.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/synapse.txt.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/synapse2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tste.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/habit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/habit.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helpless.txt" beforeDir="false" afterPath="$PROJECT_DIR$/helpless.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helpless.txt.bak" beforeDir="false" afterPath="$PROJECT_DIR$/helpless.txt.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/motivate002.txt" beforeDir="false" afterPath="$PROJECT_DIR$/motivate002.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test_sample.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_sample.txt.bak" beforeDir="false" afterPath="$PROJECT_DIR$/test_sample.txt.bak" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -292,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646201971953</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="집중력 관련 텍스트 파일 추가2">
+      <created>1646208491803</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1646208491803</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,6 +340,7 @@
     <MESSAGE value="새로운텍스트파일더 추가" />
     <MESSAGE value="새로운 텍스트파일 더더 추가" />
     <MESSAGE value="집중력 관련 텍스트 파일 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="집중력 관련 텍스트 파일 추가" />
+    <MESSAGE value="집중력 관련 텍스트 파일 추가2" />
+    <option name="LAST_COMMIT_MESSAGE" value="집중력 관련 텍스트 파일 추가2" />
   </component>
 </project>
