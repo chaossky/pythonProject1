@@ -1,0 +1,51 @@
+In 2014, a fire completely destroyed Uganda's Royal Kasubi Tombs.
+The 700-year-old wood-and-thatch tombs were the ritual burial place of four kings and were an important part of Ugandan history.
+It seemed as though this sacred place- a UNESCO world heritage site-might be gone forever.
+But all was not lost.
+
+Two years before the fire, CyArk, an organization that collects detailed digital records of cultural heritage sites, had created a "copy" of the site.
+By digitally preserving the tombs, there was enough information to rebuild and thereby prserve this historically important site for future generations.
+
+Over the 800 World Heritage sites like the Royal Kasubi Tombs are currently at risk.
+Many are deteriorating at a rapid rate. Age, weather, and general wear and tear are factors. Natural disasters such as earthquakes-and frequently occurring man-made destruction-also take their toll.
+But digitally scanning technology-like that used by CyArk-is coming to the rescue.
+
+CyArk founder and TED speaker Ben Kacyra was one of the inventors of the scanning technology. 
+He was inspired to start CyArk after the Taliban demolished Afghanistan's Bamiyan Buddhas in 2001.
+If detailed scans are available, he reasoned, at least there will be some sort of record if disaster strikes.
+
+CyArk has a goal of recoding 500 world heritage sites, and has already completed scans of 40 of them.
+These sites include Rosslyn Chapel, the Eastern Qing Tombs, and Mount Rushmore.
+
+Rosslyn Chapel
+Rosslyn Chapel, located in Scotland, is one of CyArk's completed projects. Built of stone in the 15th century, this place of worship is famous for its intricate symbolic carvings.
+It has faced many threats over its 600-year history. 
+It was partially destroyed in 1551, used as a stable in 1650, and more recently, an intruder damaged one of the chapel's pillars with a pickax.
+Now that the stones has been scanned, future damage can be repaired.
+
+The Eastern Qing Tombs
+The Eastern Qing Tombs are an elaborate royal burial ground in China.
+Built in the 17th century, it houses the resting place of five Qing Dynasty emperors and 15 empresses.
+CyArk has scanned the elaborate carvings and statues that decorate the tombs as part of a program they call the Scottish Ten,
+a project that aims to produce virtual reproductions of ten Qing tombs offer a glimpse into the funeral practices of the era.
+
+Mount Rushmore
+Mt.Rushmore, in South Dakota, U.S., is one of CyArk's more challenging projects.
+Completed in 1941, sculptors took 14 years to carve the heads of presidents George Washington, Thomas Jefferson, Theodore Roosevelt, and Abraham Lincoln into the side of the mountain. 
+In 2010, a CyArk scanned the giant sculpted heads over 16 days. 
+Besides dealing with fog, rain, snow, and hail, the team had to climb up to the top of the 5,725-foot(1,745m) rocky mountain in order to take the scans.
+They then had to rope their equipment into position to scan hard-to-reach places in the monument like chins and eyesockets.
+CyArk continues to scan and record important historic sites. 
+A network of 38 international partners is helping in the effort. All data collected is archived and publicly available at cyark.org.
+"Our collective memory is in the works of man",Kacyra says.
+"This is really not just matter of preserving this site or that site.It's a matter of preserving our human collective memory."
+
+Mapping a monument
+CyArk's key tool for saving historic sites is a portable 3-D laser scanner. The scanner moves over an area, such as the wall of a tomb, with a pulsing laser. 
+The laser measures points on the surface of the area and makes a high-definition record of them, called a "point cloud."
+The laser records points as close together as every half centimeter. A point cloud can include hundreds of millions of pieces of data about an area.
+One piece of data is the "intensity return"-the intensity of light reflection from the surface.
+Different color can show where there are cracks, or whether newer materials have been incorporated into the structure.
+The data points are then joined to in a process called meshing to create a virtual surface.
+The mesh is then combined with information from digital photographs to create a realistic 3-D model.
+
