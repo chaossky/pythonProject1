@@ -1,0 +1,21 @@
+import numpy as np
+a=np.arange(15).reshape(3,5)
+print("에이를 출력")
+print(a)
+print("에이 쉐이프 를 출력")
+print(a.shape)
+print("에이 차원 를 출력")
+print(a.ndim)
+print("에이 데이타 타입 이름 를 출력")
+print(a.dtype.name)
+print("에이 아이템사이즈 를 출력")
+print(a.itemsize)
+print("에이 타입 를 출력")
+print(type(a))
+
+b=np.ndarray([6,7,8])
+print("베이를 출력")
+print(b)
+print("에이 타입 를 출력")
+print(type(b))
+
